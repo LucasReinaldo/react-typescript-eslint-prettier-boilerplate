@@ -1,1 +1,1 @@
-#react-typescript-eslint-prettier-boilerplate
+# react-typescript-eslint-prettier-boilerplate
