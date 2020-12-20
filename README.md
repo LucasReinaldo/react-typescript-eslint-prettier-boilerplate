@@ -70,9 +70,9 @@ $ yarn start
 
 ## 🧠 Need an upgrade?
 
-Upgrades packages to their latest version based on the specified range.
-
 Check it out: [Yarn Upgrade](https://classic.yarnpkg.com/en/docs/cli/upgrade/).
+
+Upgrades packages to their latest version based on the specified range.
 
 ```
 $ yarn upgrade
