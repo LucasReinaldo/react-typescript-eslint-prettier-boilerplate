@@ -4,7 +4,7 @@
 
 Well, since I have to create a lot of new projects with pretty much the same configs, I decided to save a bit of my time.
 
-If you are starting and don't know how to create a project on your own and config eslint, prettier, editorconfig I highly recommend you to give a try.
+If you are starting and don't know how to create a project on your own and config eslint, prettier, editorconfig I highly recommend you to give a try. But don't forget, look it up to know what's going on here. 😉
 
 ## 🚀 Technologies
 
