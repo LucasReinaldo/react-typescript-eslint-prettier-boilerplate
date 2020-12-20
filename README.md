@@ -6,6 +6,8 @@ Well, since I have to create a lot of new projects with pretty much the same con
 
 If you are starting and don't know how to create a project on your own and config eslint, prettier, editorconfig I highly recommend you to give a try. But don't forget, look it up to know what's going on here. 😉
 
+The initial project was created with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
+
 ## 🚀 Technologies
 
 The project was mainly developed with the following technologies:
@@ -14,12 +16,9 @@ The project was mainly developed with the following technologies:
 "dependencies": {
   "normalize.css": "^8.0.1",
   "react": "^17.0.1",
-  "react-dom": "^17.0.1",
   "react-icons": "^4.1.0",
-  "react-scripts": "4.0.1",
   "styled-components": "^5.2.1",
   "typescript": "^4.0.3",
-  "web-vitals": "^0.2.4"
 },
 
 "devDependencies": {
@@ -67,6 +66,16 @@ $ yarn install
 
 # Run the app
 $ yarn start
+```
+
+## 🧠 Need an upgrade?
+
+Upgrades packages to their latest version based on the specified range.
+
+Check it out: [Yarn Upgrade](https://classic.yarnpkg.com/en/docs/cli/upgrade/).
+
+```
+$ yarn upgrade
 ```
 
 ## 📖 License
