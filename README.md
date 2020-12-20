@@ -50,7 +50,7 @@ VS Code with EditorConfig and ESLint
 
 ## 📚 How to clone and use
 
-To clone and run this application, we will need NodeJS + Yarn (or NPM) installed on computer and the [GoBarber Backend API](https://github.com/LucasReinaldo/react-typescript-eslint-prettier-boilerplate). 
+To clone and run this application, we will need NodeJS + Yarn (or NPM) installed on computer.
 
 After this clone the repository, from our command line:
 
