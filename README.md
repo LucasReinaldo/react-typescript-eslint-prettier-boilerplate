@@ -8,6 +8,10 @@ If you are starting and don't know how to create a project on your own and confi
 
 The project was initialised using [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
 
+## 🤔 Benefits of using Prettier and ESLint
+
+If you have set up Prettier, you can configure it to format your file on saving it. That way, you never need to worry about your code formatting anymore. Since Prettier is highly opinionated, you can do only minor configurations.
+
 ## 🚀 Technologies
 
 The project was mainly developed with the following technologies:
@@ -73,6 +77,12 @@ VS Code with EditorConfig and ESLint
 ├── tsconfig.json
 └── yarn.lock
 ```
+
+## 🧩 You will need
+
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
+[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
 
 ## 📚 Creating a repository from a template
 
