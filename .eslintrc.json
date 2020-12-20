@@ -4,10 +4,10 @@
     "es2021": true
   },
   "extends": [
-    "plugin:react/recommended",
     "airbnb",
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
+    "plugin:react/recommended",
     "prettier/@typescript-eslint"
   ],
   "parser": "@typescript-eslint/parser",
@@ -20,18 +20,18 @@
   },
   "plugins": ["react", "react-hooks", "@typescript-eslint", "prettier"],
   "rules": {
-    "react/require-default-props": "off",
-    "no-param-reassign": "off",
-    "consistent-return": "off",
-    "react/prop-types": "off",
-    "react/jsx-props-no-spreading": "off",
-    "no-use-before-define": "off",
-    "@typescript-eslint/no-use-before-define": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-use-before-define": "off",
     "camelcase": "off",
+    "consistent-return": "off",
+    "no-param-reassign": "off",
+    "no-use-before-define": "off",
     "prettier/prettier": "error",
-    "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    "react-hooks/rules-of-hooks": "error",
+    "react/jsx-props-no-spreading": "off",
+    "react/prop-types": "off",
+    "react/require-default-props": "off",
     "react/jsx-filename-extension": [
       1,
       {
