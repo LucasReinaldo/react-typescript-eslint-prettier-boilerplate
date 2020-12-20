@@ -6,7 +6,7 @@ Well, since I have to create a lot of new projects with pretty much the same con
 
 If you are starting and don't know how to create a project on your own and config eslint, prettier, editorconfig I highly recommend you to give a try. But don't forget, look it up to know what's going on here. 😉
 
-The initial project was initialised using [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
+The project was initialised using [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
 
 ## 🚀 Technologies
 
