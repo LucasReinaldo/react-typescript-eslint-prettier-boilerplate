@@ -40,6 +40,40 @@ The project was mainly developed with the following technologies:
 VS Code with EditorConfig and ESLint
 ```
 
+## 🗂 Folders
+
+```
+├── public
+│   ├── ...
+├── src
+│   ├── App.tsx
+│   ├── components
+│   ├── index.tsx
+│   ├── pages
+│   │   └── Home
+│   │       ├── index.tsx
+│   │       └── styles.ts
+│   ├── react-app-env.d.ts
+│   ├── reportWebVitals.ts
+│   ├── setupTests.ts
+│   └── styles
+│       ├── GlobalStyles.ts
+│       └── theme
+│           ├── defaultTheme.ts
+│           └── styled.d.ts
+├── .editorconfig
+├── .eslintcache
+├── .eslintignore
+├── .eslintrc.json
+├── .gitignore
+├── LICENSE
+├── README.md
+├── package.json
+├── prettier.config.js
+├── tsconfig.json
+└── yarn.lock
+```
+
 ## 📚 Creating a repository from a template
 
 - On GitHub, navigate to the main page of the repository.
